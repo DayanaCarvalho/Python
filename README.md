@@ -1,2 +1,2 @@
 # Python
-Códigos Python para ajudar em tarefas do dia-a-dia do trabalho
+Códigos Python que me ajudam em tarefas do dia-a-dia do trabalho
